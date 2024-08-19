@@ -63,7 +63,7 @@ def help_msg(message):
     bot.reply_to(
         message,
         "/login \\- to login a user with employee ID and OTP followed by command\n"
-        "/logout \\- to logout a user\n"
+        "/logout \\- لتسجيل خروج المستخدم\n"
         "/create \\- HR can create a new user with their employee ID, name, role, OTP followed by command\n"
         "/download \\- user can download their monthly attendance by providing the month & year followed by command\n"
         "/rstpwd \\- HR can reset user password by providing employee ID & OTP followed by command\n"
